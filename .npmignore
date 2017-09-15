@@ -1,6 +1,7 @@
 .babelrc
 .eslintrc.json
 .eslintignore
+app.js
 docs/
 spec/
 src/
